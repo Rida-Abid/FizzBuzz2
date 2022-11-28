@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FizzBuzz2": {
+      "commandName": "Project",
+      "commandLineArgs": "5 9 60"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz2", "FizzBuzz2\FizzBuzz2.csproj", "{F465551E-404E-485F-9D91-A098699C881B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz2.Test", "FizzBuzz2.Test\FizzBuzz2.Test.csproj", "{6CDC1E7A-60CA-4CBE-BA23-6C8068851017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F465551E-404E-485F-9D91-A098699C881B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F465551E-404E-485F-9D91-A098699C881B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F465551E-404E-485F-9D91-A098699C881B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F465551E-404E-485F-9D91-A098699C881B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDC1E7A-60CA-4CBE-BA23-6C8068851017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDC1E7A-60CA-4CBE-BA23-6C8068851017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDC1E7A-60CA-4CBE-BA23-6C8068851017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDC1E7A-60CA-4CBE-BA23-6C8068851017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9CD4FD0-977A-4DF5-8147-64AD067B850A}
+	EndGlobalSection
+EndGlobal
